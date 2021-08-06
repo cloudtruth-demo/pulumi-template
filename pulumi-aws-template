@@ -1,0 +1,1 @@
+--config ami={{ami}} --config instance_type={{instance_type}} --config availability_zones={{{availability_zones}}}
